@@ -1,0 +1,21 @@
+{
+  "name": "zsmajor",
+  "version": "1.0.0",
+  "description": "A bot which can do stuff",
+  "main": "app.js",
+  "dependencies": {
+    "Q": "0.0.1",
+    "apiai": "^4.0.1",
+    "express": "^4.15.2",
+    "imdb-api": "^2.2.1",
+    "markup": "0.0.4",
+    "node-telegram-bot-api": "^0.27.0",
+    "telegraf": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
